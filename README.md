@@ -1,2 +1,4 @@
 # materials-fds-v2
-Data 8 Public Materials for Fall 2025
+Chaffey College
+COMPSCI-10 materials
+Fall 2026
